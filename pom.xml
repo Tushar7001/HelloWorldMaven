@@ -15,11 +15,7 @@
   </properties>
   
 <distributionManagement>
-   <snapshotRepository>
-      <id>nexus-snapshots</id>
-      <url>http://52.90.174.113:8081/repositories/maven-snapshots</url>
-  <snapshotRepository>
-    <Repository>
+   <Repository>
       <id>nexus-snapshots</id>
       <url>http://52.90.174.113:8081/repositories/maven-snapshots</url>
   <Repository>
